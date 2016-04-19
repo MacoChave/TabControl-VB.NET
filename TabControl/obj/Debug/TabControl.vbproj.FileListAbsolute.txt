@@ -1,0 +1,10 @@
+c:\users\u\Visual Studio 2013\TabControl\TabControl\bin\Debug\TabControl.exe.config
+c:\users\u\Visual Studio 2013\TabControl\TabControl\bin\Debug\TabControl.exe
+c:\users\u\Visual Studio 2013\TabControl\TabControl\bin\Debug\TabControl.pdb
+c:\users\u\Visual Studio 2013\TabControl\TabControl\bin\Debug\TabControl.xml
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.Form1.resources
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.Resources.resources
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.vbproj.GenerateResource.Cache
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.exe
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.xml
+c:\users\u\Visual Studio 2013\TabControl\TabControl\obj\Debug\TabControl.pdb
